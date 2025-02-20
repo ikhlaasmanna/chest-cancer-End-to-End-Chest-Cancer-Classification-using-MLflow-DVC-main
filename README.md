@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # End-to-End-Chest-Cancer-Classification-using-MLflow-DVC
 
 
@@ -145,3 +146,6 @@ DVC
 
     ECR_REPOSITORY_NAME = simple-app
 
+=======
+# chest-cancer-End-to-End-Chest-Cancer-Classification-using-MLflow-DVC-main
+>>>>>>> 39c823f2451082c1425e0ff12040441013502df2
